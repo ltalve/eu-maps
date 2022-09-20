@@ -4,4 +4,4 @@
 
 **NB!** 0 value for a region can mean that no data is available for the region
 
-<iframe src="map.html" height="700" width="1000" scrolling="no"></iframe>
+<iframe src="map.html" height="700" width="1000" scrolling="no" frameBorder="0"></iframe>
