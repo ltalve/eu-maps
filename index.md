@@ -2,7 +2,7 @@
 
 Data source: [keep.eu](https://keep.eu)
 
-**NB!** 0 value for a region can mean that no data is available for the region
+**NB!** 0 ERDF value for a region can mean that data for the region is not available
 
 [Full screen](https://ltalve.github.io/eu-maps/map.html)
 <iframe src="map.html" height="500" width="900" scrolling="no" frameBorder="0"></iframe>
