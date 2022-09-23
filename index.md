@@ -1,6 +1,7 @@
 ### ERDF budgets of Interreg partners in NUTS3 regions in 2014-2020 ###
 
-*Data source: [keep.eu9](https://keep.eu)*
+Data source: [keep.eu](https://keep.eu)
+
 **NB!** 0 value for a region can mean that no data is available for the region
 
 [Full screen](https://ltalve.github.io/eu-maps/map.html)
