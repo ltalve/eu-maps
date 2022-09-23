@@ -1,4 +1,4 @@
-### Interreg ERDF budgets of partners in NUTS3 regions in 2014-2020 ###
+### ERDF budgets of Interreg partners in NUTS3 regions in 2014-2020 ###
 
 *Data source: https://keep.eu*
 
